@@ -1,0 +1,68 @@
+/* Start main rules*/
+.container{
+    width: 30em;
+    margin: auto;
+    height: 38em;
+    border:cadetblue 0.2em solid;
+    border-radius: 2em;
+    margin-top: 0.3em;
+   
+}
+/*End main rules */
+/* Start body */
+.container img{
+    width: 8em;
+    margin: 1em;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+.container div .name{
+    color:#0DA1E2;
+    font-size: 1.5em;
+    text-align: center;
+    margin-bottom: 3em;
+}
+.container form{
+   text-align: center;
+   width: 10em;
+   margin: auto;
+}
+.container form label{
+    padding-bottom: 0.5em;
+    float: left;
+    color:#1183CA;
+    font-size: 1.1em;
+}
+.container form input{
+    margin-bottom: 2em;
+    border-color:cadetblue;
+    float: left;
+}
+.container form .check{
+    margin-top: 0.25em;
+}
+.container form .remember{
+    padding-left: 0.25em;
+    vertical-align: center;    
+
+} 
+.container form button{
+    margin: 1em 0;
+    color: royalblue;
+    border:royalblue solid 0.15em ;
+}
+.container form a{
+    text-decoration: none;
+    color: #1183CA ;
+    margin-left:  1em;
+}
+.container form div{
+    color: lightslategray;
+    padding-left: 1em;
+    padding-top: 6em;
+}
+
+
+
+/* End body */

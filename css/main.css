@@ -1,0 +1,344 @@
+/* Start main rules*/
+.container{
+    width: 70em;
+    margin: auto;
+}
+/*End main rules */
+/* start covid */
+.covid .container p{
+    background-color: cadetblue;
+    padding: 0.5em;
+    color: whitesmoke;
+    margin: auto;
+    padding-left: 17em;
+}
+.covid .container p button{
+    color: lightcoral;
+    border: lightslategray solid 0.1em;
+}
+/*End covid */
+/*Start header */
+.head .container .bar{
+    color: blue;
+    overflow: hidden;
+    height: 2em;
+    overflow: hidden;
+}
+.head .container .bar ul{
+    list-style: none;
+    padding-left: 0;
+    overflow: hidden;
+    float: right;
+    margin: 0.3em 0 0.25em 0;
+}
+.head .container .bar ul li{
+    float:left;
+    padding: 0 0 0 0.5em;
+}
+.head .container .bar ul li a{
+    color: lightslategrey;
+    text-decoration: none;
+}
+.head .container .bar ul li a:hover{
+    color: blue;
+}
+.head .container .bar ul li input{
+    width: 6em;
+    margin-bottom: 0.3em;
+}
+.head .container .bar ul li button{
+    color: lightcoral;
+    border: lightslategray solid 0.1em;
+}
+.head .container .navbar{
+    background-color: cadetblue ;
+    height: 5em;
+}
+.head .container .navbar img{
+    width: 6em;
+    display: inline;
+    margin-left: 1.5em;
+    margin:0.5em;
+    float: left;
+}
+.head .container .navbar div{
+    font-size: 1.7em;
+    color: whitesmoke;
+    display: inline-block;
+    float: left;
+    margin-top: 1em;
+}
+.head .container .navbar ul{
+    list-style: none;
+    padding-left: 5em;
+    float: left;
+    overflow: hidden;
+    
+}
+.head .container .navbar ul li{
+    float: left;
+    padding: 0.1em;
+    padding-left: 2.5em;
+    margin-top: 0.9em;
+    font-size: 1.1em;
+}
+.head .container .navbar ul li a{
+    text-decoration: none;
+    color: whitesmoke;
+}
+.head .container .navbar ul li a:hover{
+    color: blue;
+}
+.head .container .uni{
+    width: 70em;
+    margin-top: 0em;
+}
+/*End header */
+/* Start body */
+.college .container{
+    height: 10em;
+}
+.college .container ul{
+    list-style: none;
+    float: left;
+    margin-top: 2em;
+}
+.college .container ul li{
+    float: left;
+    padding-left: 4.5em;
+}
+.college .container ul li a{
+    text-decoration: none;
+}
+.college .container ul li a .icon1{
+    margin-left: 0.4em;
+}
+.college .container ul li a .icon2{
+    margin-left: 1.8em;
+}
+.college .container ul li a .icon3{
+    margin-left: 0.2em;
+}
+.college .container ul li a .icon4{
+    margin-left: 0.2em;
+}
+.college .container ul li a .icon5{
+    margin-left: 0.2em;
+}
+.college .container ul li a .icon6{
+    margin-left: 0.2em;
+}
+
+.college .container ul li a .hrline1{
+    width: 5.5em;
+    height: 0.25em;
+    background-color:rgb(247, 201,11);
+    
+}
+.college .container ul li a .hrline2{
+    width: 8.3em;
+    height: 0.25em;
+    background-color:rgb(117,162,216);
+}
+.college .container ul li a .hrline3{
+    width: 5em;
+    height: 0.25em;
+    background-color:rgb(188, 214,118);
+}
+.college .container ul li a .hrline4{
+    width: 5em;
+    height: 0.25em;
+    background-color:rgb(148, 135,163);
+}
+.college .container ul li a .hrline5{
+    width: 5em;
+    height: 0.25em;
+    background-color:rgb(199, 68,28);
+}
+.college .container ul li a .hrline6{
+    width: 5em;
+    height: 0.25em;
+    background-color:rgb(217, 154,87);
+}
+.college .container ul li a .name1{
+    color:lightslategrey ;
+    margin-top: 0.5em;
+    margin-left: 0.3em;
+}
+.college .container ul li a .name1:hover{
+    color: blue;
+}
+.college .container ul li a .name2{
+    color:lightslategrey ;
+    margin-top: 0.5em;
+    margin-left: 0.4em;
+}
+.college .container ul li a .name3{
+    color:lightslategrey ;
+    margin-top: 0.5em;
+    margin-left: 0.7em;
+}
+.college .container ul li a .name4{
+    color:lightslategrey ;
+    margin-top: 0.5em;
+    margin-left: 0.6em;
+}
+.college .container ul li a .name5{
+    color:lightslategrey ;
+    margin-top: 0.5em;
+    margin-left: 0.55em;
+}
+.college .container ul li a .name6{
+    color:lightslategrey ;
+    margin-top: 0.5em;
+    margin-left: 0.67em;
+}
+/*End body */
+/* Start news */
+.news .container{
+    background-color: cadetblue;
+}
+.news .container h2{
+    color: whitesmoke;
+    font-size: 1.5em;
+    margin-top: 0.1em;
+    padding: 0.5em;
+}
+.news .container div{
+    float: left;
+    width: 45%;
+    margin-bottom: 1em;
+}
+.news .container div img{
+    width: 92%;
+    margin: 1em;
+    margin-left:5em;
+}
+.news .container div a{
+    float: left;
+    padding-left: 5em;
+    color: lightcoral;
+}
+.news .container div div{
+    float: left;
+    padding-left: 5em;
+    width: 29em;
+    color: lightslategray;
+}
+/* End news */
+/* Start buttons */
+.buttons .container button{
+    margin:2em 0 2em 8.2em;
+    background-color: blue;
+    cursor: pointer;
+}
+.buttons .container .info{
+    background-color: cadetblue;
+    border:cadetblue 0.15em solid;
+    padding: 0.5em;
+    color: white;
+    font-size: 1.2em;
+}
+.buttons .container .info:hover{
+    background-color: cadetblue;
+    border:cadetblue 0.15em solid;
+    padding: 0.5em;
+    color: maroon;
+    font-size: 1.2em;
+    border: black solid 0.15em;
+}
+
+.buttons .container .apply{
+    background-color:lightslategrey;
+    border:lightslategrey 0.15em solid;
+    padding: 0.5em;
+    color: white;
+    font-size: 1.2em;
+}
+.buttons .container .apply:hover{
+    background-color: lightslategray;
+    border:lightslategray 0.15em solid;
+    padding: 0.5em;
+    color: maroon;
+    font-size: 1.2em;
+    border: black solid 0.15em;
+}
+
+.buttons .container .contact{
+    background-color:lightcoral;
+    border:lightcoral 0.15em solid;
+    padding: 0.5em;
+    color: white;
+    font-size: 1.2em;
+}
+.buttons .container .contact:hover{
+    background-color: lightcoral;
+    border:lightcoral 0.15em solid;
+    padding: 0.5em;
+    color: maroon;
+    font-size: 1.2em;
+    border: black solid 0.15em;
+}
+
+/* End buttons */
+/* Start footer */
+.footer .container{
+    background-color: cadetblue;
+    margin: auto;
+    height: 13em;
+    width: 70em;
+}
+.footer .container div{
+    width: 33.33%; 
+    float: left;
+}
+
+.footer .container .logo img{
+    width: 6em; 
+    padding: 1em 0 1em 7.8em;
+   /* margin: 1em 1em 1em 8em; */
+}
+.footer .container .logo .name{
+    padding:0 0 1em 7.85em; 
+    color: whitesmoke;
+    width: 10em;
+}
+.footer .container .logo .copy{
+    padding:0 0 0 6em;
+    color:lightblue;
+    width: 10em;    
+}
+.footer .container .study p, .about p{
+    text-align: center;
+    color:white;
+    font-size: 1.25em;
+}
+.footer .container .study a, .about a{
+    display: block;
+    text-align: center;
+    padding-bottom: 1em;
+    color:lightgray;
+    text-decoration: none;
+}
+
+.footer .container .study a:hover, .about a:hover{
+    display: block;
+    text-align: center;
+    padding-bottom: 1em;
+    color:lightgray;
+    text-decoration: underline;
+    color: blue;
+}
+
+
+
+/* End footer */
+/* Start connect */
+ .connect .container .last {
+    padding-left: 28.5em;
+}
+.connect .container .last a{
+    float: left;
+    margin:0.5em;
+}
+/*End connect */
